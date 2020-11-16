@@ -5,7 +5,7 @@ public class floor {
         int x=0; //floor value for this valriable
         int index = floorSearch( arr , 0 , n-1 , x );
         if(index==-1 )
-            System.out.println("Floor value not present");
+            System.out.println("sorry! Floor value not present");
         else
             System.out.println("Floor value is "+ arr[index] );
     }

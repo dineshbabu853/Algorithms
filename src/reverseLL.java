@@ -1,5 +1,6 @@
 import java.util.Stack;
 
+//arr[2]
 public class reverseLL {
    static Node head = null;
    // 2->3->6->7->8->9->null
